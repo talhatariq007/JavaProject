@@ -2,8 +2,13 @@ import java.util.Scanner;
 public class Reverse_number 
 {
 	 private static Scanner scanner;
+	 public void my_method()
+	 {
+		 
+	 }
 
-	public static void main(String args[])
+	
+	 public static void main(String args[])
 	   {
 	      int num=0;
 	      int reversenum =0;
