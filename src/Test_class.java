@@ -7,5 +7,6 @@ public class Test_class {
 		System.out.println("Test");
 
 	}
+	// merge branch
 
 }
