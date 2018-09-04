@@ -22,5 +22,8 @@ public class factorial
 	       output = fact(n-1)* n;
 	       return output;
 	   }
+	   public String process() {
+		   return "Tim";
+	   }
 
 }
