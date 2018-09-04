@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Even_Odd
 {
+	//2nd comment from github
 	//new comment for test
 // Test comment
 	private static Scanner scanner;
