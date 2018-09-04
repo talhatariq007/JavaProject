@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class factorial 
 {
+	//updated comment
 	  private static Scanner scanner;
 	public static void main(String args[]){
 	      scanner = new Scanner(System.in);
